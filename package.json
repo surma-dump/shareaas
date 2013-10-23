@@ -1,0 +1,11 @@
+{
+  "name": "shareaas",
+  "version": "0.0.0",
+  "main": "share.js",
+  "dependencies": {
+    "browserchannel": "~1.0.8",
+    "connect": "~2.10.0",
+    "share": "~0.6.3"
+  },
+  "devDependencies": {}
+}
